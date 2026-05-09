@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.26.1"
+  "packageManager": "pnpm@10.26.1",
+  "devDependencies": {
+    "@hdnax/genuix": "^0.15.0",
+    "@hdnax/nuclint": "^0.17.3"
+  }
 }
