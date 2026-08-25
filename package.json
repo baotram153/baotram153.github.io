@@ -1,50 +1,16 @@
 {
-  "name": "starfall-meadow",
-  "version": "0.0.0",
-  "description": "Personal blogapp",
+  "name": "baotram153.github.io",
+  "version": "1.0.0",
+  "description": "A poetic place where you look for falling stars and harvest them, and plant the stardust seeds",
   "private": true,
+  "packageManager": "pnpm@11.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "run-p type-check \"build-only {@}\" --",
-    "preview": "vite preview",
-    "test:unit": "vitest",
-    "build-only": "vite build",
-    "type-check": "vue-tsc --build",
-    "lint": "eslint",
-    "lint:fix": "eslint --fix"
-  },
-  "dependencies": {
-    "pinia": "^3.0.4",
-    "vue": "^3.5.32",
-    "vue-router": "^5.0.4"
+    "dev": "typerighter dev",
+    "build": "typerighter build",
+    "preview": "typerighter preview"
   },
   "devDependencies": {
-    "@hdnax/genuix": "^0.15.0",
-    "@hdnax/nuclint": "^0.17.3",
-    "@tailwindcss/vite": "^4.3.0",
-    "@tsconfig/node24": "^24.0.4",
-    "@types/jsdom": "^28.0.1",
-    "@types/node": "^24.12.2",
-    "@typescript-eslint/eslint-plugin": "^8.59.2",
-    "@typescript-eslint/parser": "^8.59.2",
-    "@vitejs/plugin-vue": "^6.0.6",
-    "@vue/test-utils": "^2.4.6",
-    "@vue/tsconfig": "^0.9.1",
-    "eslint": "^10.3.0",
-    "eslint-plugin-vue": "^10.9.1",
-    "jsdom": "^29.0.2",
-    "npm-run-all2": "^8.0.4",
-    "tailwindcss": "^4.3.0",
-    "typescript": "~6.0.0",
-    "vite": "^8.0.8",
-    "vite-plugin-vue-devtools": "^8.1.1",
-    "vite-ssg": "^28.3.0",
-    "vitest": "^4.1.4",
-    "vue-eslint-parser": "^10.4.0",
-    "vue-tsc": "^3.2.6"
-  },
-  "engines": {
-    "node": "^20.19.0 || >=22.12.0"
+    "typerighter": "0.14.1"
   }
 }

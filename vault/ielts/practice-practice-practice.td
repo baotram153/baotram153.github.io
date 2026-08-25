@@ -1,0 +1,20 @@
+
+## Writing task 1
+
+## Writing task 2
+
+1. Some people believe that governments should spend more money on public transport  rather than building new roads. To what extent do you agree or disagree?
+  - My answer
+    Two current major approaches to improve transportation in a country are to use the governments' budget on public transport, or on building new road. Each of these solutions has its own perks, but to me, spending money on public transport is definitely a more effective and sound method in the long run.
+    First of all, focusing on public transport eliminates a variety of costs related to vehicle manufacturing, maintenance and fuel needed. A redundant amount of vehicles causes wasted capital and laboring spent on the making, repairing, renewal or innovation, not mentioning wasted resources like gasoline or petrol for a car that can carry at most 3-4 people. Furthermore, the shifting to public transport also reduce a great amount of air pollution and involuntary waste of resources. Using fewer means of transportation results in less polluted gas emitted into the environment that will inevitably damage the health of the citizen in long-term. Finally, the population of public transport can, in some aspects, reduce the discrimination relates to personal wealth. By not being worried about how one should commute daily or move around the city, people can focus more on other meaningful tasks and ideas.
+    In conclusion, I totally agree with the idea that public transport should be invested on instead of building new roads as a way to make transportation more convenient because this solution is both cost-saving in the long run and environment-aware.
+  - Band 9 answer
+    Two major **contemporary** approaches to improving a country’s **transportation system** are **allocating government funds** to public transport or **investing in** the **construction** of new roads. While both strategies **offer certain advantages**, I strongly believe that **prioritising** public transportation is a more effective and **sustainable** solution in the long term.
+
+    **First and foremost**, developing **public transport** **significantly** reduces a wide range of costs **associated with** **private vehicles**, including manufacturing, maintenance, and fuel consumption. **An excessive number of** private cars leads to **substantial waste** of **capital and labour** **devoted to** production, repair, replacement, and technological upgrades. This inefficiency is **particularly evident when considering that** most private vehicles carry no more than three or four passengers, **yet** consume **large quantities** of **finite resources** such as petrol or gasoline. In contrast, a **well-developed** public transport system maximises capacity while minimising resource use.
+
+    In addition, shifting towards public transportation can **dramatically reduce** environmental pollution. Fewer private vehicles on the road result in lower **emissions** of **harmful gases**, **thereby** **alleviating** air pollution and **mitigating** long-term health risks for citizens. This **environmentally responsible approach** not only protects **public health** but also **aligns with** **global efforts to combat climate change** and **promote sustainable urban development**.
+
+    Finally, extensive public transport networks can help reduce **social inequality related to personal wealth**. When affordable and reliable transport options are available, individuals are no longer **constrained** by their ability to own a private vehicle. As a result, people can **commute** efficiently and devote more time and energy to productive activities, education, and innovation, which **ultimately** **benefits society as a whole**.
+
+    In conclusion, I **firmly support** the view that governments should invest in public transportation rather than building new roads to **improve mobility**. This approach is not only more **cost-effective** **over time** but also **environmentally sustainable** and **socially inclusive**.

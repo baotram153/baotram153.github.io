@@ -1,0 +1,12 @@
+
+- Practice computer-based exam on [Familiarization Test](https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-english-practice-tests/ielts-on-computer/familiarisation-test)
+- **Spelling** is important in Listening
+- Before listen
+  - Highlight keywords
+  - Predict the type (noun, number, adj,...)
+  - Predict if its plural/singular
+- During listening
+  - Being mindful, recheck and predict after listening
+- After listen
+  - Correct spelling mistake
+  - Use remaining time to read questions of next part

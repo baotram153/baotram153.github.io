@@ -1,0 +1,49 @@
+
+- IELTS writing part 2 tips
+  - neutral, formal tone
+  - common mistakes
+    - overgeneralization -> possibility
+- IELTS writing part 2 fixes
+  - education and technology
+    - dragged down a rabbit whole -> drawn into a stream of information
+    - retrieval of useful knowledge -> gaining any useful knowledge
+    - achieve knowledge -> acquire knowledge
+    - hold responsibilities for ->
+      - take responsibilities for
+      - hold sb responsible for sth
+    - **Only through** interacting with their peers **do** children learn to take responsibility for their words, show empathy towards others, and remain respectful even during conflicts. (đảo ngữ)
+- Describe a teacher
+  - who: english teacher -> aspire to learn english -> should able to talk <- rigid grammar
+  - what:
+  - why influential:
+    - affect my path to use english
+    - ielts speaking
+    - problem solving
+  - fix
+    - grammar structures
+      - conditional:
+        - have i not met that teacher, i would have not love english as much as I do today
+        - mixed conditional
+          - had he not taught me with such effective method, I wouldn't be so confident in communicating in english today.
+      - inversion:
+        - not only was his teaching style unique
+      - cleft sentence
+        - what inspired me most was my teacher's teaching style,...
+      - consensus clause
+        - although I initially hate english..., the teacher's innovative method made me love the language
+      - inversion with a negative adverb or phrase
+        - never have I met a teacher who can affect the students' learning styles and perspectives in such a profound way, yet he did exactly that.
+      - relative sentences: the teacher who taught me...
+    - vocabulary
+      - the teacher who inspired me was **pivotal**
+      - he has a **profound impact** on me
+      - this profoundly shapes my perspective
+      - boring: **mundane**
+      - **foster** a life long passion / critical thinking
+      - teaching style
+    - pronunciation and intonation
+      - emphasize important word
+      - control: smooth at the ending syllable, create a calm and gentle sound
+      - stay enthusiastic on interesting topic
+      - stay calm, believe in what you've said
+- Passive and active vocabulary acquisition

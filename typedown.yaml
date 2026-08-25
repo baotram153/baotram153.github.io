@@ -1,0 +1,7 @@
+version: "1.0.0"
+vault:
+  root_dir: vault
+repo: "https://github.com/baotram153/baotram153.github.io"
+site:
+  title: "Starfall Meadow"
+  description: "A poetic place where you look for falling stars and harvest them, and plant the stardust seeds"
