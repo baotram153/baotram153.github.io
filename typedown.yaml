@@ -1,6 +1,6 @@
 version: "1.0.0"
 vault:
-  root_dir: vault
+  root_dir: "vault"
 repo: "https://github.com/baotram153/baotram153.github.io"
 site:
   title: "Starfall Meadow"
