@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A poetic place where you look for falling stars and harvest them, and plant the stardust seeds",
   "private": true,
-  "packageManager": "pnpm@11.0.0",
+  "packageManager": "pnpm@12.9.0",
   "type": "module",
   "scripts": {
     "dev": "typerighter dev",
@@ -11,6 +11,6 @@
     "preview": "typerighter preview"
   },
   "devDependencies": {
-    "typerighter": "0.40.0"
+    "typerighter": "0.55.0"
   }
 }
